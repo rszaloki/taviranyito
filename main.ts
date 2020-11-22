@@ -12,6 +12,7 @@ control.onEvent(EventBusSource.MES_DPAD_CONTROLLER_ID, EventBusValue.MES_DPAD_BU
 })
 let bal_motor = 0
 let jobb_motor = 0
+bluetooth.startLEDService()
 jobb_motor = 0
 bal_motor = 0
 let sebesseg = 140

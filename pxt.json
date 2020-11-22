@@ -3,9 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.3.6"
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.3.6",
+        "bluetooth": "*"
     },
     "files": [
         "main.blocks",
